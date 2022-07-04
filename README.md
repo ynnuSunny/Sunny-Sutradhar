@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sunny-Sutradhar
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning Advance cp Algorithms , Ai Algorithms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web and android software
 - 📫 How to reach me : sunnysutradhar38@gmail.com
 
 <!---
