@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Competetive Programming and Spring**
 
-- 📫 How to reach me **sunnysutrdhar38@gmail.com**
+- 📫 How to reach me **sunnysutradhar38@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
